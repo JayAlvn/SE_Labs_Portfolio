@@ -1,2 +1,2 @@
-##UML diagrams and Project documentation for SWE Labs
-#done by Volodymyr Hryshko 258568, CS IFE
+# UML Diagrams and Project Documentation for SWE Labs
+**Done by:** Volodymyr Hryshko (258568), CS IFE
